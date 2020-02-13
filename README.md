@@ -7,6 +7,7 @@ A demo to show how to use Keycloak as IAM application
 ## Some Admin Client tests
 ### How to start Keycloak locally
 ```
+docker-compose up -d
 ```
 ### Get token for admin user
 ```
